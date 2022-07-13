@@ -1,0 +1,6 @@
+dad_sql_pandas
+
+Pandas implementation of the SQL Data Action Definition
+
+Part of FRIDAAY: Format Representing Interdependent Data Actions As YAML
+https://github.com/TheSwanFactory/fridaay
