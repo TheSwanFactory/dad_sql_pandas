@@ -1,11 +1,12 @@
 [tool.poetry]
 name = "dad_sql_pandas"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pandas implementation of the SQL Data Action Definition for FRIDAAY"
 authors = ["Ernest Prabhakar <ernest.prabhakar@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+pandas = "^1.4.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
